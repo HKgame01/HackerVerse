@@ -21,5 +21,5 @@ Allows users to see products with a AR filer
 ## Team
 Brandon (Brandon#7184,Github-A5TA)
 
-Credit
+## Credit
 Models were taken from open source users on sketchfab.com
